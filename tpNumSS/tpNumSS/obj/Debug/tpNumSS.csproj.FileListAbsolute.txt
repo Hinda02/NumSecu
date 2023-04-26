@@ -1,0 +1,15 @@
+C:\Users\hinda\OneDrive\Documents\tpNumSS\tpNumSS\bin\Debug\tpNumSS.exe.config
+C:\Users\hinda\OneDrive\Documents\tpNumSS\tpNumSS\bin\Debug\tpNumSS.exe
+C:\Users\hinda\OneDrive\Documents\tpNumSS\tpNumSS\bin\Debug\tpNumSS.pdb
+C:\Users\hinda\OneDrive\Documents\tpNumSS\tpNumSS\obj\Debug\tpNumSS.csproj.AssemblyReference.cache
+C:\Users\hinda\OneDrive\Documents\tpNumSS\tpNumSS\obj\Debug\tpNumSS.csproj.SuggestedBindingRedirects.cache
+C:\Users\hinda\OneDrive\Documents\tpNumSS\tpNumSS\obj\Debug\tpNumSS.Form1.resources
+C:\Users\hinda\OneDrive\Documents\tpNumSS\tpNumSS\obj\Debug\tpNumSS.Properties.Resources.resources
+C:\Users\hinda\OneDrive\Documents\tpNumSS\tpNumSS\obj\Debug\tpNumSS.csproj.GenerateResource.cache
+C:\Users\hinda\OneDrive\Documents\tpNumSS\tpNumSS\obj\Debug\tpNumSS.csproj.CoreCompileInputs.cache
+C:\Users\hinda\OneDrive\Documents\tpNumSS\tpNumSS\obj\Debug\tpNumSS.exe
+C:\Users\hinda\OneDrive\Documents\tpNumSS\tpNumSS\obj\Debug\tpNumSS.pdb
+C:\Users\hinda\OneDrive\Documents\tpNumSS\tpNumSS\bin\Debug\VerifSecu.dll
+C:\Users\hinda\OneDrive\Documents\tpNumSS\tpNumSS\obj\Debug\tpNumSS.csproj.CopyComplete
+C:\Users\hinda\OneDrive\Documents\tpNumSS\tpNumSS\bin\Debug\VerifSecu.pdb
+C:\Users\hinda\OneDrive\Documents\tpNumSS\tpNumSS\obj\Debug\tpNumSS.Form2.resources
